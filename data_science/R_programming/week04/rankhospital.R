@@ -1,5 +1,5 @@
 ## rankhospital
-## Paul Bolfing
+## pbolfing
 ## week04 homework
 ## function returns hospital based on rank in a state for an outcome
 ## state == two letter abbreviation

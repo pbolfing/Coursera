@@ -1,5 +1,5 @@
 ## rankall
-## Paul Bolfing
+## pbolfing
 ## week04 homework
 ## function returns hospitals based on rank in each state for an outcome
 ## outcome == heart attack, heart failure, or pneumonia

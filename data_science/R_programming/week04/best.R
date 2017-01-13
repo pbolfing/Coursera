@@ -1,5 +1,5 @@
 ## best function
-## Paul Bolfing
+## pbolifng
 ## week04 homework
 ## function returns best hospital in a state for an outcome
 ## state == two letter abbreviation
